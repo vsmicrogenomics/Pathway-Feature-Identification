@@ -17,8 +17,7 @@ The script preprocesses input genomic data and KEGG pathway information to ident
 
 ## Usage
 
-```bash
-python Pathway_Feature_Identification.py'''
+python Pathway_Feature_Identification.py
 
 Input Files:
 Susceptibility Groups File: input/susceptibility_groups.txt
