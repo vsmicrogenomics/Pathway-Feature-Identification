@@ -1,6 +1,6 @@
 # Pathway Feature Identification
 
-This script, "Pathway_Feature_Identification.py", is designed to analyze microbial genomic data, particularly focusing on identifying pathway features associated with antimicrobial resistance (AMR). It utilizes KEGG pathway data and applies logistic regression for feature identification.
+This script, "Pathway_Feature_Identification.py", is designed to analyze microbial genomic data, particularly focusing on identifying pathway features associated with antimicrobial resistance (AMR). It utilizes KEGG pathway data and applies logistic regression for feature identification. This script is designed to process the output files of MicrobeAnnotator, a tool for microbial genome annotation.
 
 ## Overview
 
@@ -49,7 +49,7 @@ M00002  TCA cycle   Energy Metabolism   1 1 ...
 
 ## Acknowledgements
 
-This script is designed for analyzing microbial genomic data, identifying antimicrobial resistance-associated pathways using KEGG data, and applying logistic regression for feature selection. We acknowledge the developers of KEGG for their valuable resource in pathway analysis. KEGG documentation is available at KEGG website.
+This script is designed for analyzing microbial genomic data, identifying antimicrobial resistance-associated pathways using KEGG data, and applying logistic regression for feature selection.We would like to acknowledge the developers of MicrobeAnnotator for their contribution to microbial genomics research. MicrobeAnnotator is a valuable resource for genome annotation, and its documentation is available in the BMC Bioinformatics article: [MicrobeAnnotator: a user-friendly, comprehensive microbial genome annotation pipeline](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-020-03940-5). We acknowledge the developers of KEGG for their valuable resource in pathway analysis. KEGG documentation is available at KEGG website.
 
 ## Citation
 
