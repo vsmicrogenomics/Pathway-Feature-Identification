@@ -28,7 +28,7 @@ Primary Output:
 output/module_association_plot_corrected_legend.pdf: A PDF plot showing the association of KEGG modules with carbapenem resistance, with a corrected legend.
 output/module_association_plot_corrected_legend_coefficients.txt: A text file containing the coefficients of the logistic regression model for each KEGG module.
 
-## Example Input Files
+Example Input Files
 
 Susceptibility Groups File (input/susceptibility_groups.txt):
 
@@ -43,6 +43,7 @@ module  name        pathway group    Organism1   Organism2   ...
 M00001  Glycolysis  Carbohydrate Metabolism 1 0 ...
 M00002  TCA cycle   Energy Metabolism   1 1 ...
 ...
+
 
 ## Acknowledgements
 
