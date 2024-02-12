@@ -55,4 +55,4 @@ This script is designed for analyzing microbial genomic data, identifying antimi
 
 If you use this script for your research, please consider citing it as follows:
 
-Sharma, V. (2024). Pathway_Feature_Identification.py [Python script]. Retrieved from https://github.com/vsmicrogenomics/PanGenomeAnalysisTool
+Sharma, V. (2024). Pathway_Feature_Identification.py [Python script]. Retrieved from https://github.com/vsmicrogenomics/Pathway-Feature-Identification
