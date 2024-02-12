@@ -35,15 +35,21 @@ output/module_association_plot_corrected_legend_coefficients.txt: A text file co
 Susceptibility Groups File (input/susceptibility_groups.txt):
 
 Organism    Category
+
 Organism1   Carbapenem-Resistant
+
 Organism2   Carbapenem-Susceptible
+
 ...
 
 KEGG Pathway Data File (input/KEGG_pathways.tab):
 
 module  name        pathway group    Organism1   Organism2   ...
+
 M00001  Glycolysis  Carbohydrate Metabolism 1 0 ...
+
 M00002  TCA cycle   Energy Metabolism   1 1 ...
+
 ...
 
 
